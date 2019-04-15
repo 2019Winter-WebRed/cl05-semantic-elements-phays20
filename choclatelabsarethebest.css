@@ -1,0 +1,25 @@
+/*
+* Peyton Hays
+* February 1, 2019
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { background-color: yellow;
+
+}
+
+
+main {background-color: azure;}
+
+
+header {background-color: deeppink;}
+
+footer {background-color: darkturquoise;}
